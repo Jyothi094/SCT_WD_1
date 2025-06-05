@@ -29,8 +29,6 @@ https://drive.google.com/file/d/18FulrSYte65AoJEzfvuPFr5k7Uwswqiu/view?usp=shari
 [View the code here](https://github.com/Jyothi094/SCT_WD_1)
 
 ### 🌍 Live Demo:
-*(If hosted on GitHub Pages, Netlify, or Vercel, add the link here)*  
 Example: `https://jyothi094.github.io/SCT_WD_1/`
 
-## 📁 Folder Structure
 
